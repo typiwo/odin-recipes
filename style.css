@@ -1,0 +1,30 @@
+ul.homepage {
+    font-size: 28px;
+    font-family: 'Courier New', Courier, monospace;
+    list-style:square;
+}
+
+
+ol.recipe, ul.recipe {
+    display: table;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+img {
+    width:300px;
+    height: auto;
+    border-style:ridge;
+    border-width: 5px;
+    border-color:beige;
+}
+
+body.recipes{
+    text-align: center;
+    
+}
+
+* {
+    background-color: brown;
+    color:beige;
+}
